@@ -1,6 +1,6 @@
 var bardata = [];
 
-for (var i=0; i < 150; i++) {
+for (var i=0; i < 50; i++) {
     bardata.push(Math.round(Math.random()*30)+20)
 }
 
